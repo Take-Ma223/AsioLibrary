@@ -1,0 +1,5 @@
+以下のコマンドを実行
+dotnet publish -c Release -r win-x64 --self-contained false
+
+./bin\Release\net8.0\win-x64\publish
+に出力されます
